@@ -1,0 +1,9 @@
+{
+  "name": "Support-618 - Helpdesk & Customer Portal (StackTON)",
+  "description": "Plataforma de Helpdesk y Customer Portal para StackTON con gestión RBAC, tickets, facturación con Stripe y notificaciones multicanal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
+

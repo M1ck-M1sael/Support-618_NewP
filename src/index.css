@@ -1,0 +1,8 @@
+@import "tailwindcss";
+
+/* En Tailwind CSS v4, habilitamos el modo oscuro basado en la clase .dark en lugar de prefers-color-scheme */
+@custom-variant dark (&:where(.dark, .dark *));
+
+@theme {
+  --color-slate-850: #162032;
+}
